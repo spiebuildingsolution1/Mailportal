@@ -140,7 +140,7 @@ const handleNextClick = () => {
         borderRadius: "10px",
         height: "55px",
         fontSize: "13px",
-        width: "400px",
+        // width: "400px",
         boxShadow: "0 2px 6px rgba(0, 0, 0, 0.1)",
         border: "1px solid #ccc",       // light gray border
         outlineColor: "#999"            // gray outline when focused
